@@ -1,3 +1,4 @@
+/* Accessing Non-Static Variables in another class */
 public class test {
   public static void main(String[] args) {
     Company com = new Company();
